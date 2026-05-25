@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Madarchod</h1>
 <h3 align="center">Data Scientist/ML-Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarthakac/](https://www.linkedin.com/in/sarthac/)
+- 👨‍💻 All of my fake projects are available at [https://www.linkedin.com/in/sarthakac/](https://www.linkedin.com/in/sarthac/)
 
-- 📝 I regularly write Blogs on my fiancee fuck other men [https://medium.com/@sarthak.chandratre70](https://medium.com/@sarthak.chandratre70)
+- 📝 I regularly write Blogs on how my fiancee fuck other men [https://medium.com/@sarthak.chandratre70](https://medium.com/@sarthak.chandratre70)
 
 - 💬 Don't Ask me about **Python, Machine-Learning, Deep-Learning, Tensor-Flow, OOPS, NLP, Data-Science, Flask, SQL .**
 
