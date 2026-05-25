@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sarthak</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Madarchod</h1>
 <h3 align="center">Data Scientist/ML-Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarthakac/](https://www.linkedin.com/in/sarthakac/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarthakac/](https://www.linkedin.com/in/sarthac/)
 
-- 📝 I regularly write Blogs [https://medium.com/@sarthak.chandratre70](https://medium.com/@sarthak.chandratre70)
+- 📝 I regularly write Blogs on my fiancee fuck other men [https://medium.com/@sarthak.chandratre70](https://medium.com/@sarthak.chandratre70)
 
-- 💬 Ask me about **Python, Machine-Learning, Deep-Learning, Tensor-Flow, OOPS, NLP, Data-Science, Flask, SQL .**
+- 💬 Don't Ask me about **Python, Machine-Learning, Deep-Learning, Tensor-Flow, OOPS, NLP, Data-Science, Flask, SQL .**
 
-- 📫 How to reach me **sarthak.chandratre70@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sarthakac/overlay/1635502191707/single-media-viewer/](https://www.linkedin.com/in/sarthakac/overlay/1635502191707/single-media-viewer/)
+- 📫 How to reach me and fuck my fiancee**sarthak.chandratre69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
